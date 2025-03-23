@@ -2,6 +2,10 @@
 
 ![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
 
+> [!IMPORTANT]
+> Sample code of simple form validation without libraries or native/third-party hooks.
+> [sample code here](https://codewithpawan.medium.com/form-validation-in-react-a-comprehensive-guide-with-examples-c12e1c8671f2). Try it yourself!
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
